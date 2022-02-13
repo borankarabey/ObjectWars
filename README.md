@@ -1,2 +1,0 @@
-# GelecegiYazanlar
-Homeworks
