@@ -1,0 +1,13 @@
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\bin\Debug\netcoreapp3.1\Try3.exe
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\bin\Debug\netcoreapp3.1\Try3.deps.json
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\bin\Debug\netcoreapp3.1\Try3.runtimeconfig.json
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\bin\Debug\netcoreapp3.1\Try3.runtimeconfig.dev.json
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\bin\Debug\netcoreapp3.1\Try3.dll
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\bin\Debug\netcoreapp3.1\Try3.pdb
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.csprojAssemblyReference.cache
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.AssemblyInfoInputs.cache
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.AssemblyInfo.cs
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.csproj.CoreCompileInputs.cache
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.dll
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.pdb
+C:\Users\a.ortak\Desktop\intern\coding\C#\Try3\Try3\Try3\obj\Debug\netcoreapp3.1\Try3.genruntimeconfig.cache
