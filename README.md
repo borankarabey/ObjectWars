@@ -1,3 +1,3 @@
-## ObjectWars
+## Object Wars as Lord of the Rings
 
-#### Turkcell Gelecegi Yazanlar HW3
+#### Turkcell - Gelecegi Yazanlar / HW3
